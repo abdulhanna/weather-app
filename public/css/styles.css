@@ -1,0 +1,22 @@
+h1{
+    color: brown;
+}
+
+img{
+    width: 400px;
+    height: 500px;
+}
+
+.content{
+    width: 600px;
+    margin: 0 auto;
+}
+
+.content a{
+    text-decoration: none;
+    margin: 5px;
+}
+
+.content form{
+    margin: 10px;
+}
